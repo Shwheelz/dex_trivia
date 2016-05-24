@@ -2,7 +2,7 @@
 Pokedex Trivia Skill for Amazon Alexa
 
 ## Contributing
-First, visit the [https://docs.google.com/document/d/1AI7LskV0EkqiPNXCjRh8vPAAfH-ctlHeAnQXZmXCYUg/edit?usp=sharing](Google Doc) for the full list of Pokemon already done or about to be implemented.
+First, visit the [Google Doc](https://docs.google.com/document/d/1AI7LskV0EkqiPNXCjRh8vPAAfH-ctlHeAnQXZmXCYUg/edit?usp=sharing) for the full list of Pokemon already done or about to be implemented.
 
 Second, write a tough question based on a Pokedex entry.  You can use [http://www.serebii.net/pokedex/]Serebii as reference.
 

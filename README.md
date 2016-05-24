@@ -10,7 +10,7 @@ The question needs to appear in the following format, with the correct answer FI
 
 ```javascript
 {
-  "Which Psychic Pokemon emits special alpha waves from its body that induce headaches to those who are close by?": [
+  "Which Psychic Pokemon emits alpha waves from its body that induce headaches to those who are close by?": [
     "Kadabra.",
     "Psyduck.",
     "Mr. Mime.",

@@ -1,5 +1,5 @@
 # Dex Trivia
-Pokedex Trivia Skill for Amazon Alexa
+[Pokedex Trivia Skill for Amazon Alexa](http://alexaskillscentral.com/skills/2016/05/06/dex-trivia/)
 
 ## Contributing
 First, visit the [Google Doc](https://docs.google.com/document/d/1AI7LskV0EkqiPNXCjRh8vPAAfH-ctlHeAnQXZmXCYUg/edit?usp=sharing) for the full list of Pokemon already done or about to be implemented.
